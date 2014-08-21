@@ -1,4 +1,4 @@
 http-parser-android
 ===================
 
-Android jni wrapper of http-parser
+Android native wrapper of http-parser
